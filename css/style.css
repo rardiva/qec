@@ -249,8 +249,8 @@ a:focus {
 }
 
 .custom_nav-container .navbar-nav {
-  margin-right: auto;
-  float: right;
+  margin-left: auto;
+  float: left;
 }
 
 .custom_nav-container .navbar-nav .nav-item .nav-link {

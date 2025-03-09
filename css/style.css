@@ -58,6 +58,10 @@ body {
   text-align: justify;
 }
 
+p{
+  text-align: justify;
+}
+
 a,
 a:hover,
 a:focus {
